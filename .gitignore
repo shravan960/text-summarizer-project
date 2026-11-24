@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+venv/
+.venv/
+.env
+.vscode/
+saved_summary_model/model.safetensors
